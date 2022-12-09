@@ -1,1 +1,1 @@
-puts
+variables
