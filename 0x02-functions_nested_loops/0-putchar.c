@@ -6,8 +6,7 @@
 */
 int main(void)
 {
-char string[] = "_putchar";
-int i;
+char string[] = "_putcint" i;
 
 for (i = 0; i < 8; i++)
 {
